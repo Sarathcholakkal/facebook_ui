@@ -1,16 +1,28 @@
-# facebook_ui
+# Facebook UI Clone
 
-A new Flutter project.
+A Flutter application that recreates the Facebook mobile UI using modern Flutter development practices.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Home](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Learning Objectives
+
+This project was created to strengthen my understanding of:
+
+- Flutter basic widgets and UI layouts
+- Widget refactoring and code organization
+- Practicing basic Git operations (add, commit, push, and pull)
+- Naming conventions and clean coding practices
+- Reusable custom widget implementaion
+
+
+
+## Author
+
+Sarath C
