@@ -1,16 +1,22 @@
 # facebook_ui
+A Flutter application that recreates the Facebook mobile interface 
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### Home Screen
 
-This project is a starting point for a Flutter application.
+![Home](screenshots/home.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Learning Objectives
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was created to practice:
+
+- Flutter basic widgets and layouts
+- Widget refactoring techniques
+- Meaningful naming conventions for class, file name, method,
+
+
+## Author
+
+Sarath C
