@@ -1,0 +1,17 @@
+const avatarNames = [
+  'Alex Johnson',
+  'Emma Wilson',
+  'James Brown',
+  'Sophia Davis',
+  'Michael Miller',
+  'Olivia Taylor',
+  'Daniel Anderson',
+  'Ava Thomas',
+  'William Jackson',
+  'Mia White',
+  'Ethan Harris',
+  'Charlotte Martin',
+  'Noah Thompson',
+  'Amelia Garcia',
+  'Liam Rodriguez',
+];
